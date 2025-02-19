@@ -4,6 +4,7 @@ The bird2 config for MirrorEdge Network
 Forked From [MoeQing](https://github.com/MoeQing-Network/MoeQing-Network-BIRD2-Config)
 
 
+All configuration is example, detailed config should be getted from internal web server.
 ## Internal Community:
 
 >(151673, <999,  0)            Community for all my node
