@@ -1,0 +1,5 @@
+protocol bgp RR_NAME from pubibgp {
+    source address BB_V6;
+    neighbor RR_IP as LOCAL_ASN;
+
+};
