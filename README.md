@@ -31,6 +31,7 @@ This network is a via 6, so Add IPv4 support
 (151673, 212, 0)   Special routes type 3
 (151673, 213, 0)   Special routes type 4
 (151673, 214, 0)   Special routes type 5
+(151673, 215, id)  From node id
 ```
 
 ## Control Community:
